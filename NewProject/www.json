@@ -1,0 +1,10 @@
+[ {
+  "fname" : "akshada",
+  "lname" : "as",
+  "address" : {
+    "city" : "pune",
+    "state" : "maharashtra"
+  },
+  "zip" : 41014,
+  "mobNo" : "7498384280"
+} ]
